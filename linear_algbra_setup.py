@@ -27,7 +27,7 @@ beta1, beta2 = np.matmul(inv_xtx, xty)
 print(beta1, beta2)
 
 #mlr example
-#simple linear regression
+
 x = np.matrix([[1,1,12],
                [1,2,15],
                [1,3,20],
